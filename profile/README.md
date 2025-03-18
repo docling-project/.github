@@ -22,6 +22,12 @@ The key repositories of Docling are:
 - [docling-ibm-models](https://github.com/docling-project/docling-ibm-models) - The AI models powering Docling.
 
 
-## IBM ❤️ Open Source AI
+## LF AI & Data
 
-All our projects are brought to you by IBM.
+Docling is hosted as a project in the [LF AI & Data Foundation](https://lfaidata.foundation/projects/).
+
+<img src="./img/lfai-docling.png" width="600" />
+
+### IBM ❤️ Open Source AI
+
+The project was started by the AI for knowledge team at IBM Research Zurich.
