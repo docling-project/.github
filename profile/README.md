@@ -20,6 +20,8 @@ The key repositories of Docling are:
 - [docling-parse](https://github.com/docling-project/docling-parse) - The backend PDF parser used by Docling.
 - [docling-serve](https://github.com/docling-project/docling-serve) - The FastAPI wrappers for running Docling as REST API and distribute large jobs.
 - [docling-ibm-models](https://github.com/docling-project/docling-ibm-models) - The AI models powering Docling.
+- [docling-sdg](https://github.com/docling-project/docling-sdg) - Synthetic data generation (SDG) on documents for dataset generation for RAG, finetuning, etc.
+- [docling-mcp](https://github.com/docling-project/docling-mcp) - The definition of tools with  the Model Context Protocol for document conversion, manipulation and generation agents.
 
 
 ## LF AI & Data
