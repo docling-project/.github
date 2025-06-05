@@ -1,6 +1,6 @@
 # Welcome to the Docling Project
 
-This is the GitHub organization Docling open-source project.
+This is the GitHub organization Docling open-source project. We like to get continuous feedback from the community: take the [poll](https://www.feedback.redhat.com/jfe/form/SV_eSaELOTnOafy0Vo)!
 
 ## Docling
 
