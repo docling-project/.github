@@ -22,6 +22,7 @@ The key repositories of Docling are:
 - [docling-ibm-models](https://github.com/docling-project/docling-ibm-models) - The AI models powering Docling.
 - [docling-sdg](https://github.com/docling-project/docling-sdg) - Synthetic data generation (SDG) on documents for dataset generation for RAG, finetuning, etc.
 - [docling-mcp](https://github.com/docling-project/docling-mcp) - The definition of tools with  the Model Context Protocol for document conversion, manipulation and generation agents.
+- [docling-java](https://github.com/docling-project/docling-java) - A Java API for interacting with Docling, currently based on [docling-serve](https://github.com/docling-project/docling-serve).
 
 
 ## LF AI & Data
